@@ -1,0 +1,24 @@
+h1{
+    justify-content: center;
+    display: flex;
+    padding-top: 30px ;
+}
+.w{
+    position: fixed;
+    top: 0;
+    right: 20px;
+    padding-top: 30px;
+}
+.z{
+    background-color: rgb(33, 220, 67);
+    border-radius: 10px;
+    height: 100px;
+}
+.abc{
+    color: rgb(220, 33, 33);
+    padding: 10px;
+    margin: 70px;
+    border: 1px solid black;
+    width: 250px;
+    border-radius: 5px;
+}
